@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/wofi-minh/rails-chat-app.png?label=ready&title=Ready)](https://waffle.io/wofi-minh/rails-chat-app)
 ## rails-chat-app
 
 This is a small chat app using Rails 5 new feature - ActionCable. It has chatroom and new message notification.
